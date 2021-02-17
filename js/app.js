@@ -26,10 +26,10 @@
     }
 
     
-    createCustomer(0, 'Kim', 'It is easy to use, happy I found it.')
+    createCustomer(0, 'Daisy', 'It is easy to use, happy I found it.')
     createCustomer(1, 'Sandy', 'If I can use it, everybody can use it!')
     createCustomer(2, 'Amy', 'Testimonial by Amy')
-    createCustomer(3, 'Joseph', 'Josephs testimonial')
+    createCustomer(3, 'Kim', 'Kims testimonial')
     createCustomer(4, 'Diana', 'My feedback')
     
 
